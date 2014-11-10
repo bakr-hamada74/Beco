@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="GMA-1290" versionCode="7" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tracktek.spectra" versionCode="7" version="1.0.0">
   <name>3alapp</name>
   <description>3alapp - Track-Tek</description>
   <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
